@@ -1,24 +1,12 @@
 <div align="center">
 
-```
- ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄        ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄            
-▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌      ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌           
-▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌░▌     ▐░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌           
-▐░▌       ▐░▌▐░▌       ▐░▌▐░▌▐░▌    ▐░▌▐░▌          ▐░▌       ▐░▌▐░▌           
-▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄█░▌▐░▌ ▐░▌   ▐░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░▌       ▐░▌▐░▌           
-▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░▌  ▐░▌  ▐░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌           
-▐░▌       ▐░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌   ▐░▌ ▐░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░▌       ▐░▌▐░▌           
-▐░▌       ▐░▌▐░▌       ▐░▌▐░▌    ▐░▌▐░▌▐░▌          ▐░▌       ▐░▌▐░▌           
-▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░▌     ▐░▐░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ 
-▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌      ▐░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
- ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀        ▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+STUDENT;FULL+STACK+DEVELOPER;FINTECH+ENTHUSIAST;GAME+LOVER;PRESS+START+TO+CONTINUE..." alt="Arcade Text" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=DANIEL+GUILGER;COMPUTER+SCIENCE+STUDENT;FULL+STACK+DEVELOPER;FINTECH+ENTHUSIAST;PRESS+START+TO+CONTINUE..." alt="Arcade Text" />
 
 ```
     ████████████████████████████████████████████████████████████████
-    █▌                    🕹️ PLAYER: DANIEL 🕹️                   ▐█
+    █▌                🕹️ PLAYER: DANIEL GUILGER 🕹️               ▐█
     █▌                     LEVEL: COMPUTER SCIENCE                ▐█
     █▌                     LOCATION: SÃO PAULO, BR               ▐█
     █▌                     STATUS: CODING...                     ▐█
@@ -29,7 +17,7 @@
 
 ---
 
-## 🎮 PLAYER STATS
+## 🎮 PLAYER ABILITIES
 
 <table>
 <tr>
@@ -37,16 +25,17 @@
 
 ```
 ╔══════════════════════════╗
-║        ABILITIES         ║
+║        TECH STACK        ║
 ╠══════════════════════════╣
-║ JavaScript    ████████░░ ║
-║ TypeScript    ██████░░░░ ║
-║ Python        ███████░░░ ║
-║ HTML/CSS      ████████░░ ║
-║ Node.js       ██████░░░░ ║
-║ React         █████░░░░░ ║
-║ MySQL         ██████░░░░ ║
-║ Git           ███████░░░ ║
+║ • JavaScript             ║
+║ • TypeScript             ║
+║ • Python                 ║
+║ • HTML & CSS             ║
+║ • Node.js                ║
+║ • React                  ║
+║ • MySQL                  ║
+║ • Supabase               ║
+║ • Git                    ║
 ╚══════════════════════════╝
 ```
 
@@ -54,7 +43,7 @@
 <td width="50%">
 
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </div>
 
 </td>
@@ -75,7 +64,7 @@
 ```
 ┌─────────────────┐
 │    $$$ COINS    │
-│   ████████████  │
+│                 │
 │   Building the  │
 │   future of $   │
 └─────────────────┘
@@ -89,9 +78,8 @@ Developing financial applications and exploring algorithmic trading
 ```
 ┌─────────────────┐
 │   ⚡ SPEED ⚡   │
-│   ████████████  │
+│                 │
 │   Solving       │
-│   complex       │
 │   problems      │
 └─────────────────┘
 ```
@@ -104,9 +92,8 @@ Mastering data structures and competitive programming
 ```
 ┌─────────────────┐
 │   🎨 CREATE 🎨  │
-│   ████████████  │
+│                 │
 │   Building      │
-│   interactive   │
 │   experiences   │
 └─────────────────┘
 ```
@@ -125,12 +112,16 @@ Creating games and interactive entertainment
 <div align="center">
 
 ```
-🟨 LANGUAGES      🟦 FRONTEND       🟩 BACKEND        🟪 TOOLS
-───────────       ────────────      ──────────        ───────
-JavaScript        HTML5             Node.js           Git
-TypeScript        CSS3              Express           VS Code  
-Python            React             MySQL             Figma
-SQL               -                 Supabase          -
+🟨 LANGUAGES      🟩 TOOLS & FRAMEWORKS
+───────────       ──────────────────────
+JavaScript        Node.js
+TypeScript        React  
+Python            Express
+HTML/CSS          MySQL
+SQL               Supabase
+                  Git
+                  VS Code
+                  Figma
 ```
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,react,mysql,supabase,git,vscode,figma&theme=dark" />
@@ -147,10 +138,11 @@ SQL               -                 Supabase          -
 ┌─────────────────────────────────────────────────────────┐
 │                    🎯 ACTIVE QUESTS 🎯                  │
 ├─────────────────────────────────────────────────────────┤
-│ [████████░░] Building fintech dashboard                 │
-│ [██████░░░░] Learning advanced algorithms               │ 
-│ [████░░░░░░] Developing trading bot prototype           │
-│ [██████████] Mastering React & TypeScript               │
+│ • Building fintech dashboard with React & TypeScript    │
+│ • Learning advanced algorithms and data structures      │ 
+│ • Developing trading bot prototype with Python          │
+│ • Exploring game development frameworks                 │
+│ • Contributing to open source projects                  │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -162,7 +154,7 @@ SQL               -                 Supabase          -
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ```
     ╔════════════════════════════════════════╗
@@ -170,7 +162,7 @@ SQL               -                 Supabase          -
     ╚════════════════════════════════════════╝
 ```
 
-[![Instagram](https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilgerdaniel)
+[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilgerdaniel)
 [![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:danielpolakguilger@gmail.com)
 
 ```
