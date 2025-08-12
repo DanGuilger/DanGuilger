@@ -102,11 +102,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=DanGuilger&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FFFF"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=DanGuilger&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGuilger&layout=compact&langs_count=8&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00FF41&text_color=00FF41"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGuilger&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanGuilger&theme=neon-palenight&hide_border=true&border_radius=20&background=0D1117&stroke=00FF41&ring=00FFFF&fire=FF073A&currStreakLabel=00FF41" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanGuilger&theme=neon-palenight&hide_border=true" />
 
 </div>
 
@@ -120,7 +120,11 @@
     ╚═══════════════════════════════════════════════════════════╝
 ```
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -132,8 +136,8 @@
 
 <br><br>
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/guilgerdaniel)
-[![Email](https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:danielpolakguilger@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilgerdaniel)
+[![Email](https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:danielpolakguilger@gmail.com)
 
 <br>
 
