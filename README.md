@@ -1,86 +1,152 @@
 <div align="center">
 
-### Hey! 👋 I'm DanGuilger
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Fintech+Enthusiast;Always+Learning" alt="Typing SVG" />
-
-</div>
-
----
-
-### 🚀 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Daniel"
-        self.role = "CS Student @ Inteli"
-        self.languages = ["JavaScript", "TypeScript", "Python", "SQL"]
-        self.interests = ["algorithms", "fintech", "gaming"]
-        self.currently_learning = ["advanced algorithms", "market analysis"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+```
+██████╗  █████╗ ███╗   ██╗     ██████╗ ██╗   ██╗██╗██╗      ██████╗ ███████╗██████╗ 
+██╔══██╗██╔══██╗████╗  ██║    ██╔════╝ ██║   ██║██║██║     ██╔════╝ ██╔════╝██╔══██╗
+██║  ██║███████║██╔██╗ ██║    ██║  ███╗██║   ██║██║██║     ██║  ███╗█████╗  ██████╔╝
+██║  ██║██╔══██║██║╚██╗██║    ██║   ██║██║   ██║██║██║     ██║   ██║██╔══╝  ██╔══██╗
+██████╔╝██║  ██║██║ ╚████║    ╚██████╔╝╚██████╔╝██║███████╗╚██████╔╝███████╗██║  ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝     ╚═════╝  ╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-### 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SISTEMA+INICIALIZADO...;CONECTANDO+A+MATRIX...;DANIEL+%7C+LEVEL+99+CODER;ESPECIALIZACAO%3A+FINTECH+%26+ALGORITHMS" alt="Cyberpunk Terminal" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,supabase,mysql,git,vscode&perline=5" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanGuilger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DanGuilger&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanGuilger&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=FFFFFF" />
-</p>
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake.svg" />
 </div>
 
-### 🎯 Current Focus
+## ⚡ INICIALIZANDO PERFIL...
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Cyberpunk GIF" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-- 🔭 Building projects with **JavaScript** and **Python**
-- 💡 Exploring **fintech** applications
-- 📈 Learning about **algorithmic trading**
-- 🎮 Game development in spare time
-- 🌱 Always improving my coding skills
+```ascii
+╔══════════════════════════════════════╗
+║  🎮 ARCADE DEVELOPER STATS           ║
+║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║  💻 PROGRAMMING LEVEL: [████████░░]  ║
+║  🚀 FINTECH INTEREST:  [██████████]  ║
+║  🎯 ALGORITHM SKILLS:  [████████░░]  ║
+║  🎮 GAMING PASSION:    [██████████]  ║
+╚══════════════════════════════════════╝
+```
+
+**🔥 SISTEMA OPERACIONAL:** Computer Science @ Inteli  
+**⚡ ESPECIALIZAÇÕES:** JavaScript | TypeScript | Python | SQL  
+**🎯 MISSÕES ATIVAS:** Fintech Development | Algorithm Optimization  
+**🎮 SIDE QUESTS:** Game Development | Market Analysis
 
 <br clear="right"/>
 
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://instagram.com/guilgerdaniel">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:danielpolakguilger@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
+## 🌐 TECH ARSENAL
 
 <div align="center">
 
-**💭 Random Dev Quote**
+```
+    ╔═══════════════════════════════════════════════════════════╗
+    ║                    🔮 DIGITAL WEAPONS 🔮                  ║
+    ╚═══════════════════════════════════════════════════════════╝
+```
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML" />
+<br><sub><b>HTML</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS" />
+<br><sub><b>CSS</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="NodeJS" />
+<br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="Supabase" />
+<br><sub><b>Supabase</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+<br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+<br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
+<br><sub><b>VS Code</b></sub>
+</td>
+</tr>
+</table>
 
-**📊 Profile Views**
+</div>
 
-![](https://komarev.com/ghpvc/?username=DanGuilger&color=58A6FF&style=flat-square&label=Profile+Views)
+## 📊 SISTEMA DE MONITORAMENTO
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=DanGuilger&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FFFF"/>
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGuilger&layout=compact&langs_count=8&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00FF41&text_color=00FF41"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanGuilger&theme=neon-palenight&hide_border=true&border_radius=20&background=0D1117&stroke=00FF41&ring=00FFFF&fire=FF073A&currStreakLabel=00FF41" />
+
+</div>
+
+## 🐍 MATRIX CODE INJECTION
+
+<div align="center">
+
+```
+    ╔═══════════════════════════════════════════════════════════╗
+    ║                  🐍 NEURAL PATHWAY 🐍                     ║
+    ╚═══════════════════════════════════════════════════════════╝
+```
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+## 🕹️ CONEXÕES DE REDE
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br><br>
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/guilgerdaniel)
+[![Email](https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:danielpolakguilger@gmail.com)
+
+<br>
+
+```
+ACCESS_LEVEL: GRANTED ✅ | FIREWALL: DISABLED 🔓 | STATUS: ONLINE 🟢
+```
+
+<img src="https://komarev.com/ghpvc/?username=DanGuilger&color=00ff41&style=for-the-badge&label=NEURAL+CONNECTIONS"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
