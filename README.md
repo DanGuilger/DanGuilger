@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=DANIEL+GUILGER;COMPUTER+SCIENCE+STUDENT;FULL+STACK+DEVELOPER;FINTECH+ENTHUSIAST;PRESS+START+TO+CONTINUE..." alt="Arcade Text" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=DANIEL+GUILGER;COMPUTER+SCIENCE+STUDENT;FINTECH+%26+ALGORITHMS;PRESS+START..." alt="Arcade Text" />
 
 ```
     ████████████████████████████████████████████████████████████████
     █▌                🕹️ PLAYER: DANIEL GUILGER 🕹️               ▐█
-    █▌                     LEVEL: COMPUTER SCIENCE                ▐█
-    █▌                     LOCATION: SÃO PAULO, BR               ▐█
-    █▌                     STATUS: CODING...                     ▐█
+    █▌                     STATUS: CODING AT INTELI               ▐█
     ████████████████████████████████████████████████████████████████
 ```
 
@@ -17,7 +15,7 @@
 
 ---
 
-## 🎮 PLAYER ABILITIES
+## 🎮 TECH ARSENAL
 
 <table>
 <tr>
@@ -25,12 +23,18 @@
 
 ```
 ╔══════════════════════════╗
-║        TECH STACK        ║
+║        LANGUAGES         ║
 ╠══════════════════════════╣
 ║ • JavaScript             ║
 ║ • TypeScript             ║
 ║ • Python                 ║
 ║ • HTML & CSS             ║
+║ • SQL                    ║
+╚══════════════════════════╝
+
+╔══════════════════════════╗
+║      TOOLS & LIBS        ║
+╠══════════════════════════╣
 ║ • Node.js                ║
 ║ • React                  ║
 ║ • MySQL                  ║
@@ -43,7 +47,7 @@
 <td width="50%">
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
 </div>
 
 </td>
@@ -52,137 +56,42 @@
 
 ---
 
-## 🕹️ GAME MODES
+## 🕹️ CURRENT PROJECTS
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💰 FINTECH QUEST
-```
-┌─────────────────┐
-│    $$$ COINS    │
-│                 │
-│   Building the  │
-│   future of $   │
-└─────────────────┘
-```
-Developing financial applications and exploring algorithmic trading
-
-</td>
-<td align="center" width="33%">
-
-### 🎯 ALGORITHM ARENA  
-```
-┌─────────────────┐
-│   ⚡ SPEED ⚡   │
-│                 │
-│   Solving       │
-│   problems      │
-└─────────────────┘
-```
-Mastering data structures and competitive programming
-
-</td>
-<td align="center" width="33%">
-
-### 🎮 GAME DEV MODE
-```
-┌─────────────────┐
-│   🎨 CREATE 🎨  │
-│                 │
-│   Building      │
-│   experiences   │
-└─────────────────┘
-```
-Creating games and interactive entertainment
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🔧 POWER-UPS
-
-<div align="center">
-
-```
-🟨 LANGUAGES      🟩 TOOLS & FRAMEWORKS
-───────────       ──────────────────────
-JavaScript        Node.js
-TypeScript        React  
-Python            Express
-HTML/CSS          MySQL
-SQL               Supabase
-                  Git
-                  VS Code
-                  Figma
-```
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,react,mysql,supabase,git,vscode,figma&theme=dark" />
-
-</div>
-
----
-
-## 🏆 CURRENT MISSIONS
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    🎯 ACTIVE QUESTS 🎯                  │
+│                    🎯 ACTIVE MISSIONS                   │
 ├─────────────────────────────────────────────────────────┤
-│ • Building fintech dashboard with React & TypeScript    │
-│ • Learning advanced algorithms and data structures      │ 
-│ • Developing trading bot prototype with Python          │
-│ • Exploring game development frameworks                 │
-│ • Contributing to open source projects                  │
+│ 💰 Fintech applications with React & TypeScript        │
+│ 🎮 Game development experiments                        │ 
+│ 📊 Algorithm optimization challenges                   │
+│ 🚀 Web development projects                            │
 └─────────────────────────────────────────────────────────┘
 ```
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,react,mysql,supabase,git&theme=dark" />
 
 </div>
 
 ---
 
-## 📡 MULTIPLAYER
+## 📡 CONNECT
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-```
-    ╔════════════════════════════════════════╗
-    ║           🎮 CONNECT TO PLAY 🎮        ║
-    ╚════════════════════════════════════════╝
-```
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
 [![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilgerdaniel)
 [![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:danielpolakguilger@gmail.com)
 
-```
-INSERT COIN TO CONTINUE...
-```
-
-<img src="https://komarev.com/ghpvc/?username=DanGuilger&color=00ffff&style=for-the-badge&label=PLAYERS+ONLINE"/>
-
-</div>
-
----
-
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=DanGuilger&color=00ffff&style=for-the-badge&label=VISITORS"/>
 
 ```
-    ███████████████████████████████████████████████████
-    █                 GAME OVER                       █
-    █            THANKS FOR PLAYING!                  █  
-    █          PRESS F5 TO PLAY AGAIN                 █
-    ███████████████████████████████████████████████████
+GAME OVER - THANKS FOR PLAYING!
 ```
 
 </div>
