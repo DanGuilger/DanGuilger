@@ -1,8 +1,6 @@
-# Daniel Polakiewicz Guilger
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Full+Stack+Developer;Computer+Science+Student;Inteli" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Full+Stack+Developer;Computer+Science+Student" alt="Typing SVG" />
 
 </div>
 
@@ -67,12 +65,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanGuilger&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGuilger&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanGuilger&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGuilger&layout=compact&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanGuilger&theme=radical&hide_border=true" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## 📫 Contato
