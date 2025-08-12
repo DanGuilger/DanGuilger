@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝    ╚═════╝  ╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+STUDENT;FINTECH+%26+GAME+DEVELOPER;UNITY+%26+WEB+SPECIALIST;PRESS+START..." alt="Arcade Text" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+STUDENT;FULL+STACK+DEVELOPER;FINTECH+ENTHUSIAST;PRESS+START..." alt="Arcade Text" />
 
 ```
     ████████████████████████████████████████████████████████████████
@@ -56,7 +56,7 @@
 <td width="50%">
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="300">
 </div>
 
 </td>
@@ -69,16 +69,16 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
 
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                    🎯 ACTIVE MISSIONS                   │
 ├─────────────────────────────────────────────────────────┤
 │ 💰 Fintech applications with React & TypeScript        │
-│ 🎮 Game development with Unity & C#                    │ 
+│ 🚀 Full stack web development projects                 │ 
 │ 📊 Algorithm optimization challenges                   │
-│ 🚀 Web development projects                            │
+│ 🎮 Game development as hobby (Unity & C#)              │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7422ba.gif" width="100">
 
 [![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilgerdaniel)
 [![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:danielpolakguilger@gmail.com)
