@@ -1,95 +1,86 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Full+Stack+Developer;Computer+Science+Student" alt="Typing SVG" />
+### Hey! 👋 I'm DanGuilger
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Fintech+Enthusiast;Always+Learning" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎯 Sobre mim
+### 🚀 About Me
 
-- 🎓 Estudante de Ciência da Computação no **Inteli**
-- 💻 Focado em desenvolvimento web e algoritmos
-- 📊 Interessado em fintech e análise de dados
-- 🎮 Gamer nas horas vagas
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Daniel"
+        self.role = "CS Student @ Inteli"
+        self.languages = ["JavaScript", "TypeScript", "Python", "SQL"]
+        self.interests = ["algorithms", "fintech", "gaming"]
+        self.currently_learning = ["advanced algorithms", "market analysis"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+```
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-      <br>Supabase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,supabase,mysql,git,vscode&perline=5" />
+  </a>
+</p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanGuilger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DanGuilger&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanGuilger&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=FFFFFF" />
+</p>
+
+### 🐍 Contribution Graph
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanGuilger&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGuilger&layout=compact&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake.svg" />
 </div>
 
+### 🎯 Current Focus
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🔭 Building projects with **JavaScript** and **Python**
+- 💡 Exploring **fintech** applications
+- 📈 Learning about **algorithmic trading**
+- 🎮 Game development in spare time
+- 🌱 Always improving my coding skills
+
+<br clear="right"/>
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://instagram.com/guilgerdaniel">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:danielpolakguilger@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanGuilger&theme=radical&hide_border=true" />
-</div>
 
-## 🐍 Contribution Snake
+**💭 Random Dev Quote**
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 📫 Contato
+**📊 Profile Views**
 
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilgerdaniel)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpolakguilger@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=DanGuilger&color=ff6b6b&style=flat)
+![](https://komarev.com/ghpvc/?username=DanGuilger&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
