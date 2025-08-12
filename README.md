@@ -1,124 +1,61 @@
 <div align="center">
 
-```
-██████╗  █████╗ ███╗   ██╗     ██████╗ ██╗   ██╗██╗██╗      ██████╗ ███████╗██████╗ 
-██╔══██╗██╔══██╗████╗  ██║    ██╔════╝ ██║   ██║██║██║     ██╔════╝ ██╔════╝██╔══██╗
-██║  ██║███████║██╔██╗ ██║    ██║  ███╗██║   ██║██║██║     ██║  ███╗█████╗  ██████╔╝
-██║  ██║██╔══██║██║╚██╗██║    ██║   ██║██║   ██║██║██║     ██║   ██║██╔══╝  ██╔══██╗
-██████╔╝██║  ██║██║ ╚████║    ╚██████╔╝╚██████╔╝██║███████╗╚██████╔╝███████╗██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝     ╚═════╝  ╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+# Daniel Guilger
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SISTEMA+INICIALIZADO...;CONECTANDO+A+MATRIX...;DANIEL+%7C+LEVEL+99+CODER;ESPECIALIZACAO%3A+FINTECH+%26+ALGORITHMS" alt="Cyberpunk Terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full+Stack+Developer;Fintech+Enthusiast" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
 </div>
 
-## ⚡ INICIALIZANDO PERFIL...
+## 👨‍💻 About Me
 
-<img align="right" alt="Cyberpunk GIF" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  interests: string[];
+  technologies: string[];
+}
 
-```ascii
-╔══════════════════════════════════════╗
-║  🎮 ARCADE DEVELOPER STATS           ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║  💻 PROGRAMMING LEVEL: [████████░░]  ║
-║  🚀 FINTECH INTEREST:  [██████████]  ║
-║  🎯 ALGORITHM SKILLS:  [████████░░]  ║
-║  🎮 GAMING PASSION:    [██████████]  ║
-╚══════════════════════════════════════╝
+const daniel: Developer = {
+  name: "Daniel Guilger",
+  role: "Computer Science Student @ Inteli",
+  location: "São Paulo, Brazil",
+  interests: ["Algorithms", "Fintech", "Web Development", "Gaming"],
+  technologies: ["JavaScript", "TypeScript", "Python", "SQL"]
+};
 ```
 
-**🔥 SISTEMA OPERACIONAL:** Computer Science @ Inteli  
-**⚡ ESPECIALIZAÇÕES:** JavaScript | TypeScript | Python | SQL  
-**🎯 MISSÕES ATIVAS:** Fintech Development | Algorithm Optimization  
-**🎮 SIDE QUESTS:** Game Development | Market Analysis
-
-<br clear="right"/>
-
-## 🌐 TECH ARSENAL
+## 🛠️ Tech Stack
 
 <div align="center">
 
-```
-    ╔═══════════════════════════════════════════════════════════╗
-    ║                    🔮 DIGITAL WEAPONS 🔮                  ║
-    ╚═══════════════════════════════════════════════════════════╝
-```
+**Languages & Frameworks**
 
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-<br><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-<br><sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-<br><sub><b>Python</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML" />
-<br><sub><b>HTML</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS" />
-<br><sub><b>CSS</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="NodeJS" />
-<br><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="Supabase" />
-<br><sub><b>Supabase</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-<br><sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
-<br><sub><b>Git</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
-<br><sub><b>VS Code</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,supabase,git,vscode,github,figma" />
 
 </div>
 
-## 📊 SISTEMA DE MONITORAMENTO
+## 📊 GitHub Analytics
 
 <div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanGuilger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGuilger&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=DanGuilger&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGuilger&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanGuilger&theme=neon-palenight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanGuilger&theme=tokyonight&hide_border=true" />
 
 </div>
 
-## 🐍 MATRIX CODE INJECTION
+## 🐍 Contribution Graph
 
 <div align="center">
-
-```
-    ╔═══════════════════════════════════════════════════════════╗
-    ║                  🐍 NEURAL PATHWAY 🐍                     ║
-    ╚═══════════════════════════════════════════════════════════╝
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake-dark.svg">
@@ -128,29 +65,23 @@
 
 </div>
 
-## 🕹️ CONEXÕES DE REDE
+## 🎯 Current Focus
+
+- 💼 Building fintech applications with modern web technologies
+- 📚 Studying advanced algorithms and data structures
+- 🚀 Developing full-stack projects with JavaScript/TypeScript
+- 📊 Exploring data analysis and market trends
+- 🎮 Working on game development side projects
+
+## 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br><br>
-
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilgerdaniel)
-[![Email](https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:danielpolakguilger@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilgerdaniel)
+[![Email](https://img.shields.io/badge/-Email-5865F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpolakguilger@gmail.com)
 
 <br>
 
-```
-ACCESS_LEVEL: GRANTED ✅ | FIREWALL: DISABLED 🔓 | STATUS: ONLINE 🟢
-```
-
-<img src="https://komarev.com/ghpvc/?username=DanGuilger&color=00ff41&style=for-the-badge&label=NEURAL+CONNECTIONS"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+![Profile Views](https://komarev.com/ghpvc/?username=DanGuilger&color=6366f1&style=flat-square&label=Profile+Views)
 
 </div>
