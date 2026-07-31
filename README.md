@@ -1,171 +1,179 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ★ HERO WAVE BANNER ★                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--             ★ SYNTHWAVE / RETROWAVE 80s PROFILE ★              -->
+<!--    Palette: #1A0033 · #FF10F0 · #00F0FF · #FFD700 · #FF6EC7    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1E3A8A,100:00E5FF&height=280&section=header&text=Daniel%20Guilger&fontColor=ffffff&fontSize=80&fontAlignY=38&animation=fadeIn&desc=CTO%20%26%20AI%20Architect%20%40%20Levver.ai&descAlignY=62&descSize=22" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,20:5B0A72,45:FF10F0,70:00F0FF,100:FFD700&height=280&section=header&text=DANIEL%20GUILGER&fontColor=ffffff&fontSize=72&fontAlignY=36&animation=twinkling&desc=%E2%98%86+CTO+%26+AI+ARCHITECT+%E2%98%86+INSERT+COIN+TO+CONTINUE+%E2%98%86&descAlignY=60&descSize=17" width="100%" alt="header" />
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     ★ TYPING HEADLINE ★                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ─── rotating iconic quotes ─── -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=%E2%9A%A1+I+ship+AI+that+survives+production.;%F0%9F%9A%80+Building+the+plumbing+behind+LatAm+enterprise+AI." alt="typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1200&color=FF10F0&center=true&vCenter=true&width=820&height=55&lines=%22Do.+Or+do+not.+There+is+no+try.%22+%E2%80%94+Yoda;%22With+great+power+comes+great+responsibility.%22+%E2%80%94+Uncle+Ben;%22I+know+kung+fu.%22+%E2%80%94+Neo;%22Life+moves+pretty+fast.%22+%E2%80%94+Ferris+Bueller;%22May+the+Force+be+with+you.%22+%E2%80%94+Obi-Wan" alt="quotes" />
 
 <br />
 
-<a href="https://www.linkedin.com/in/daniel-guilger/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://levver.ai/pt-br"><img src="https://img.shields.io/badge/-Levver.ai-0A1F44?style=for-the-badge&logoColor=white" alt="Levver.ai"/></a>
-<a href="mailto:daniel.guilger@levver.ai"><img src="https://img.shields.io/badge/-daniel.guilger%40levver.ai-1A1A1A?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=DanGuilger&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
+<a href="https://www.linkedin.com/in/daniel-guilger/"><img src="https://img.shields.io/badge/-LinkedIn-FF10F0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0033" alt="LinkedIn"/></a>
+<a href="https://levver.ai/pt-br"><img src="https://img.shields.io/badge/-Levver.ai-00F0FF?style=for-the-badge&logo=vercel&logoColor=1A0033&labelColor=1A0033" alt="Levver.ai"/></a>
+<a href="mailto:daniel.guilger@levver.ai"><img src="https://img.shields.io/badge/-Email-FFD700?style=for-the-badge&logo=gmail&logoColor=1A0033&labelColor=1A0033" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=DanGuilger&color=FF10F0&style=for-the-badge&label=HIGH+SCORE" alt="views"/>
 
 </div>
 
 <br />
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ★ ABOUT ME ★                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ★  PLAYER  STATS  ★                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## &nbsp;⚡&nbsp;&nbsp;About me
-
-<table>
-<tr>
-<td valign="top" width="55%">
-
-```typescript
-const daniel = {
-  role:      "CTO & Architecture · AI",
-  company:   "Levver.ai",
-  studying:  "CS @ Inteli",
-  location:  "São Paulo, BR",
-  focus:     ["production AI",
-              "multi-tenant infra",
-              "fintech", "quant"],
-  weekend:   "Unity + C# side projects",
-  languages: ["pt-BR", "en", "es"],
-  philosophy: "zero hype · ship the thing",
-};
+```
+╔══════════════════════════════════════════════════════╗
+║                ★  P L A Y E R   1  ★                 ║
+╠══════════════════════════════════════════════════════╣
+║  NAME ......... Daniel Guilger                       ║
+║  CLASS ........ CTO & AI Architect                   ║
+║  GUILD ........ Levver.ai                            ║
+║  ACADEMY ...... Inteli · CS                          ║
+║  HOMEWORLD .... São Paulo, BR   ☀                    ║
+║  LANGUAGES .... pt-BR · en · es                      ║
+║  MOTTO ........ zero hype · ship the thing           ║
+╚══════════════════════════════════════════════════════╝
 ```
 
+- 🎮 &nbsp;**LVL 21+:** shipping AI to enterprise before finishing college
+- ☕ &nbsp;**Fuel:** espresso, `Ctrl+Z`, and pure stubbornness
+- 🌆 &nbsp;**Mode:** 3 AM debugger — thrives in neon-lit conditions
+- 🕹️ &nbsp;**Weekend brain:** Unity + C# — different bugs deserve different clothes
+- 🎯 &nbsp;**Combo unlocked:** CTO × Student × Sleep — *pick two*
+
 <br />
 
-- 🚀 &nbsp;Turning experimental AI into systems that survive real customers
-- 🧠 &nbsp;Sharpening: **distributed systems, agentic patterns, evals**
-- 🎮 &nbsp;Weekend brain: **Unity + C#** because different muscles matter
-- 🌎 &nbsp;Based in **São Paulo**, shipping across **LatAm**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          ★ DIVIDER ★                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-</td>
-<td valign="top" width="45%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20&height=3" width="100%" alt="—" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" alt="analysis" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ★  TECH  ARSENAL  ★                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        ★ DIVIDER ★                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     ★ TECH ARSENAL ★                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## &nbsp;🛠️&nbsp;&nbsp;Tech Arsenal
+<h2 align="center">⚔&nbsp;&nbsp;T E C H &nbsp; A R S E N A L&nbsp;&nbsp;⚔</h2>
 
 <div align="center">
 
-<b>⟨ Languages & Runtime ⟩</b>
+<b>▸ ⚡ &nbsp;W E A P O N S&nbsp; (Languages)</b>
 <br /><br />
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,ts,js,nodejs,bash&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,ts,js,nodejs,bash&theme=dark" alt="languages"/>
 
 <br /><br />
 
-<b>⟨ AI · Backend · Data ⟩</b>
+<b>▸ 🧠 &nbsp;S P E L L S&nbsp; (AI · Backend · Data)</b>
 <br /><br />
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,supabase,redis,docker,kubernetes&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,supabase,redis,docker,kubernetes&theme=dark" alt="backend"/>
 
 <br /><br />
 
-<b>⟨ Cloud ⟩</b>
+<b>▸ 💎 &nbsp;M A N A &nbsp; P O O L&nbsp; (Cloud)</b>
 <br /><br />
-<img src="https://skillicons.dev/icons?i=azure,gcp,aws&theme=dark" alt="cloud" />
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws&theme=dark" alt="cloud"/>
 
 <br /><br />
 
-<b>⟨ Frontend & Weekend Fun ⟩</b>
+<b>▸ 🎮 &nbsp;S I D E &nbsp; Q U E S T S</b>
 <br /><br />
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,unity,git,github,vscode&theme=dark" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,unity,git,github,vscode&theme=dark" alt="side"/>
 
 </div>
 
 <br />
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        ★ DIVIDER ★                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          ★ DIVIDER ★                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6&height=3" width="100%" alt="—" />
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ★ STREAK ★                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## &nbsp;🔥&nbsp;&nbsp;Activity Streak
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ★  ARCADE  SECTION  ★                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanGuilger&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF" alt="streak stats" />
+<br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450" alt="arcade" />
+
+<br />
+
+<h3><i>▸ Some things aged well. Pac-Man. SQL. Dark mode. ▸</i></h3>
+
+<br />
+
+```
+╔══════════════════════════════════════════════════════╗
+║                 ★  Q U E S T  L O G  ★               ║
+╠══════════════════════════════════════════════════════╣
+║  MAIN QUEST ..... scale Levver's multi-tenant AI     ║
+║  SIDE QUEST ..... .NET/Azure ⚔ Python/GCP            ║
+║  GRINDING ....... distributed systems · evals        ║
+║  BOSS RUSH ...... shipping GenAI for enterprise      ║
+║  ACHIEVEMENT .... zero downtime, real customers      ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <br />
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        ★ DIVIDER ★                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          ★ DIVIDER ★                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20&height=3" width="100%" alt="—" />
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      ★ DAILY QUOTE ★                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ★  MULTIPLAYER  ★                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
-
-</div>
-
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ★ LET'S CONNECT ★                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## &nbsp;📡&nbsp;&nbsp;Let's Connect
+<h2 align="center">📡&nbsp;&nbsp;M U L T I P L A Y E R</h2>
 
 <div align="center">
+
+<i>Wanna co-op? Boss fights welcome.</i>
+
+<br /><br />
 
 <a href="https://www.linkedin.com/in/daniel-guilger/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" height="42" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-FF10F0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0033" height="42" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://levver.ai/pt-br">
-  <img src="https://img.shields.io/badge/Levver.ai-00E5FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0A1F44" height="42" alt="Levver.ai" />
+  <img src="https://img.shields.io/badge/Levver.ai-00F0FF?style=for-the-badge&logo=vercel&logoColor=1A0033&labelColor=1A0033" height="42" alt="Levver.ai"/>
 </a>
 &nbsp;
 <a href="mailto:daniel.guilger@levver.ai">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" height="42" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=1A0033&labelColor=1A0033" height="42" alt="Email"/>
 </a>
+
+<br /><br />
+
+```
+       ▸  PRESS ANY BADGE TO SEND A MESSAGE  ▸
+```
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     ★ FOOTER WAVE ★                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:1E3A8A,100:0A1F44&height=140&section=footer" width="100%" alt="footer" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ★  FOOTER  WAVE  ★                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,30:00F0FF,55:FF10F0,80:5B0A72,100:1A0033&height=140&section=footer" width="100%" alt="footer" />
+
+<!-- 
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   ░░  YOU FOUND THE EASTER EGG. WELCOME TO THE GRID.  ░░
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+-->
