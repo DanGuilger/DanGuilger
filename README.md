@@ -1,63 +1,63 @@
 <div align="center">
 
 ```
-██████╗  █████╗ ███╗   ██╗██╗███████╗██╗         ██████╗ ██╗   ██╗██╗██╗      ██████╗ ███████╗██████╗ 
-██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║        ██╔════╝ ██║   ██║██║██║     ██╔════╝ ██╔════╝██╔══██╗
-██║  ██║███████║██╔██╗ ██║██║█████╗  ██║        ██║  ███╗██║   ██║██║██║     ██║  ███╗█████╗  ██████╔╝
-██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║        ██║   ██║██║   ██║██║██║     ██║   ██║██╔══╝  ██╔══██╗
-██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗   ╚██████╔╝╚██████╔╝██║███████╗╚██████╔╝███████╗██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝    ╚═════╝  ╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+╭─ ~/daniel-guilger ───────────────────────────────────────╮
+│                                                          │
+│   ██████╗  █████╗ ███╗   ██╗██╗███████╗██╗              │
+│   ██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║              │
+│   ██║  ██║███████║██╔██╗ ██║██║█████╗  ██║              │
+│   ██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║              │
+│   ██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗         │
+│   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝         │
+│                                                          │
+│              g  u  i  l  g  e  r                         │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+STUDENT;FULL+STACK+DEVELOPER;FINTECH+ENTHUSIAST;PRESS+START..." alt="Arcade Text" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=680&lines=Builder+of+systems+that+survive+production.;AI+%C2%B7+fintech+%C2%B7+quant+%C2%B7+sometimes+games.;CS+%40+Inteli+%C2%B7+S%C3%A3o+Paulo%2C+BR;Zero+hype.+Ship+the+thing." alt="headline" />
 
-```
-    ████████████████████████████████████████████████████████████████
-    █▌                🕹️ PLAYER: DANIEL GUILGER 🕹️               ▐█
-    █▌                     STATUS: CODING AT INTELI               ▐█
-    ████████████████████████████████████████████████████████████████
-```
+<br />
+
+<a href="https://www.linkedin.com/in/daniel-guilger/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://levver.ai/pt-br"><img src="https://img.shields.io/badge/Currently%20@%20Levver.ai-0A1F44?style=for-the-badge&logoColor=white" alt="Levver.ai" /></a>
+<a href="mailto:daniel@levver.ai"><img src="https://img.shields.io/badge/daniel%40levver.ai-1A1A1A?style=for-the-badge&logo=maildotru&logoColor=00E5FF" alt="Email" /></a>
 
 </div>
 
 ---
 
-## 🎮 TECH ARSENAL
+## `$ whoami`
+
+```bash
+> Daniel Guilger · São Paulo, BR
+> CS @ Inteli · CTO & Architecture · AI @ Levver.ai
+> I like taking messy problems and turning them into
+>   systems that don't fall over when someone real uses them.
+```
+
+---
+
+## `$ ls ~/obsessions/`
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-```
-╔══════════════════════════╗
-║        LANGUAGES         ║
-╠══════════════════════════╣
-║ • JavaScript             ║
-║ • TypeScript             ║
-║ • Python                 ║
-║ • C#                     ║
-║ • HTML & CSS             ║
-║ • SQL                    ║
-╚══════════════════════════╝
+**🧠 AI that ships**
+Not demos. Multi-tenant, isolated, observable, evaluated. The unglamorous 90% between a notebook and a customer.
 
-╔══════════════════════════╗
-║      TOOLS & LIBS        ║
-╠══════════════════════════╣
-║ • Node.js                ║
-║ • React                  ║
-║ • Unity                  ║
-║ • MySQL                  ║
-║ • Supabase               ║
-║ • Git                    ║
-╚══════════════════════════╝
-```
+**💸 Fintech & quant**
+Financial document intelligence, quantitative strategies, the plumbing behind decisions that move money.
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-<div align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
-</div>
+**⚙️ Systems design**
+Distributed backends, agentic pipelines, tenancy models. How things break at scale — and how to design so they don't.
+
+**🎮 Games (weekend brain)**
+Unity + C# side projects. Different muscle from work — keeps the fundamentals sharp.
 
 </td>
 </tr>
@@ -65,42 +65,85 @@
 
 ---
 
-## 🕹️ CURRENT PROJECTS
+## `$ cat stack.md`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Backend & Runtime**
+```
+Python · .NET · Node.js
+FastAPI · ASP.NET
+TypeScript · C#
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Cloud & Infra**
+```
+Azure · GCP · AWS
+Multi-tenant isolation
+Docker · Serverless
+SQL · Supabase
+```
+
+</td>
+<td valign="top" width="33%">
+
+**AI & Frontend**
+```
+Generative AI · RAG
+Document intelligence
+Agentic pipelines
+React · TypeScript
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,ts,js,react,nodejs,azure,gcp,aws,docker,supabase,mysql,unity,git&theme=dark" />
+</div>
+
+---
+
+## `$ cat now.txt`
+
+```
+[2026 · Q3]
+> Scaling multi-tenant AI infra across .NET/Azure + Python/GCP
+> Shipping GenAI features for enterprise document workflows
+> Sharpening: distributed systems, agentic patterns, evals
+```
+
+---
+
+## `$ git log --author=DanGuilger --stat`
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DanGuilger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGuilger&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" />
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                    🎯 ACTIVE MISSIONS                   │
-├─────────────────────────────────────────────────────────┤
-│ 💰 Fintech applications with React & TypeScript        │
-│ 🚀 Full stack web development projects                 │ 
-│ 📊 Algorithm optimization challenges                   │
-│ 🎮 Game development as hobby (Unity & C#)              │
-└─────────────────────────────────────────────────────────┘
-```
+</div>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,nodejs,react,unity,mysql,supabase,git&theme=dark" />
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/DanGuilger/DanGuilger/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
-## 📡 CONNECT
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7422ba.gif" width="100">
-
-[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilgerdaniel)
-[![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:danielpolakguilger@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=DanGuilger&color=00ffff&style=for-the-badge&label=VISITORS"/>
-
-```
-GAME OVER - THANKS FOR PLAYING!
-```
+`> end of stream · reach out any time`
 
 </div>
