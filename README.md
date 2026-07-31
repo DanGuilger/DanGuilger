@@ -3,7 +3,7 @@
 <!--    Palette: #1A0033 · #FF10F0 · #00F0FF · #FFD700 · #FF6EC7    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,50:FF10F0,100:00F0FF&height=280&section=header&text=DANIEL%20GUILGER&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=fadeIn&desc=INSERT+COIN+TO+CONTINUE&descAlignY=62&descSize=18" width="100%" alt="daniel guilger hero" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,50:FF10F0,100:00F0FF&height=280&section=header&text=DANIEL%20GUILGER&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=fadeIn&desc=PRESS+START&descAlignY=62&descSize=20" width="100%" alt="daniel guilger hero" />
 
 <!-- ─── rotating iconic quotes ─── -->
 
@@ -13,10 +13,9 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/daniel-guilger/"><img src="https://img.shields.io/badge/-LinkedIn-FF10F0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0033" alt="LinkedIn"/></a>
-<a href="https://levver.ai/pt-br"><img src="https://img.shields.io/badge/-Levver.ai-00F0FF?style=for-the-badge&logo=vercel&logoColor=1A0033&labelColor=1A0033" alt="Levver.ai"/></a>
-<a href="mailto:daniel.guilger@levver.ai"><img src="https://img.shields.io/badge/-Email-FFD700?style=for-the-badge&logo=gmail&logoColor=1A0033&labelColor=1A0033" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=DanGuilger&color=FF10F0&style=for-the-badge&label=HIGH+SCORE" alt="views"/>
+<a href="https://www.linkedin.com/in/daniel-guilger/"><img src="https://img.shields.io/badge/-LinkedIn-1A0033?style=for-the-badge&logo=linkedin&logoColor=FF10F0" alt="LinkedIn"/></a>
+<a href="https://levver.ai/pt-br"><img src="https://img.shields.io/badge/-Levver.ai-1A0033?style=for-the-badge&logo=vercel&logoColor=00F0FF" alt="Levver.ai"/></a>
+<a href="mailto:daniel.guilger@levver.ai"><img src="https://img.shields.io/badge/-Email-1A0033?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/></a>
 
 </div>
 
@@ -145,21 +144,21 @@
 <br /><br />
 
 <a href="https://www.linkedin.com/in/daniel-guilger/">
-  <img src="https://img.shields.io/badge/LinkedIn-FF10F0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0033" height="42" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-1A0033?style=for-the-badge&logo=linkedin&logoColor=FF10F0" height="42" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://levver.ai/pt-br">
-  <img src="https://img.shields.io/badge/Levver.ai-00F0FF?style=for-the-badge&logo=vercel&logoColor=1A0033&labelColor=1A0033" height="42" alt="Levver.ai"/>
+  <img src="https://img.shields.io/badge/-Levver.ai-1A0033?style=for-the-badge&logo=vercel&logoColor=00F0FF" height="42" alt="Levver.ai"/>
 </a>
 &nbsp;
 <a href="mailto:daniel.guilger@levver.ai">
-  <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=1A0033&labelColor=1A0033" height="42" alt="Email"/>
+  <img src="https://img.shields.io/badge/-Email-1A0033?style=for-the-badge&logo=gmail&logoColor=FFD700" height="42" alt="Email"/>
 </a>
 
 <br /><br />
 
 ```
-       ▸  PRESS ANY BADGE TO SEND A MESSAGE  ▸
+       ▸  TAP ANY BADGE TO CONNECT  ▸
 ```
 
 </div>
