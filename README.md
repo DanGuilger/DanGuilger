@@ -32,14 +32,13 @@
 ║  NAME ......... Daniel Guilger                       ║
 ║  CLASS ........ CTO & AI Architect                   ║
 ║  GUILD ........ Levver.ai                            ║
-║  ACADEMY ...... Inteli · CS                          ║
 ║  HOMEWORLD .... São Paulo, BR   ☀                    ║
 ║  LANGUAGES .... pt-BR · en · es                      ║
 ║  MOTTO ........ zero hype · ship the thing           ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-- 🎮 &nbsp;**LVL 21+:** shipping AI to enterprise before finishing college
+- 🎮 &nbsp;**NOW:** shipping AI that survives real enterprise customers at Levver
 - ☕ &nbsp;**Fuel:** espresso, `Ctrl+Z`, and pure stubbornness
 - 🌆 &nbsp;**Mode:** 3 AM debugger. Thrives in neon-lit conditions.
 - 🕹️ &nbsp;**Weekend brain:** Unity + C# side projects. Different bugs deserve different clothes.
