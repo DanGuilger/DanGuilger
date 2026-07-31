@@ -21,7 +21,7 @@
 
 <a href="https://www.linkedin.com/in/daniel-guilger/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://levver.ai/pt-br"><img src="https://img.shields.io/badge/Currently%20@%20Levver.ai-0A1F44?style=for-the-badge&logoColor=white" alt="Levver.ai" /></a>
-<a href="mailto:daniel@levver.ai"><img src="https://img.shields.io/badge/daniel%40levver.ai-1A1A1A?style=for-the-badge&logo=maildotru&logoColor=00E5FF" alt="Email" /></a>
+<a href="mailto:daniel.guilger@levver.ai"><img src="https://img.shields.io/badge/daniel.guilger%40levver.ai-1A1A1A?style=for-the-badge&logo=maildotru&logoColor=00E5FF" alt="Email" /></a>
 
 </div>
 
