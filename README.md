@@ -3,13 +3,13 @@
 <!--    Palette: #1A0033 · #FF10F0 · #00F0FF · #FFD700 · #FF6EC7    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,20:5B0A72,45:FF10F0,70:00F0FF,100:FFD700&height=280&section=header&text=DANIEL%20GUILGER&fontColor=ffffff&fontSize=72&fontAlignY=36&animation=twinkling&desc=%E2%98%86+CTO+%26+AI+ARCHITECT+%E2%98%86+INSERT+COIN+TO+CONTINUE+%E2%98%86&descAlignY=60&descSize=17" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,50:FF10F0,100:00F0FF&height=280&section=header&text=DANIEL%20GUILGER&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=fadeIn&desc=INSERT+COIN+TO+CONTINUE&descAlignY=62&descSize=18" width="100%" alt="daniel guilger hero" />
 
 <!-- ─── rotating iconic quotes ─── -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1200&color=FF10F0&center=true&vCenter=true&width=820&height=55&lines=%22Do.+Or+do+not.+There+is+no+try.%22+%E2%80%94+Yoda;%22With+great+power+comes+great+responsibility.%22+%E2%80%94+Uncle+Ben;%22I+know+kung+fu.%22+%E2%80%94+Neo;%22Life+moves+pretty+fast.%22+%E2%80%94+Ferris+Bueller;%22May+the+Force+be+with+you.%22+%E2%80%94+Obi-Wan" alt="quotes" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1200&color=FF10F0&center=true&vCenter=true&width=820&height=55&lines=%22Do.+Or+do+not.+There+is+no+try.%22+-+Yoda;%22With+great+power+comes+great+responsibility.%22+-+Uncle+Ben;%22I+know+kung+fu.%22+-+Neo;%22Life+moves+pretty+fast.%22+-+Ferris+Bueller;%22May+the+Force+be+with+you.%22+-+Obi-Wan" alt="quotes" />
 
 <br />
 
@@ -42,9 +42,9 @@
 
 - 🎮 &nbsp;**LVL 21+:** shipping AI to enterprise before finishing college
 - ☕ &nbsp;**Fuel:** espresso, `Ctrl+Z`, and pure stubbornness
-- 🌆 &nbsp;**Mode:** 3 AM debugger — thrives in neon-lit conditions
-- 🕹️ &nbsp;**Weekend brain:** Unity + C# — different bugs deserve different clothes
-- 🎯 &nbsp;**Combo unlocked:** CTO × Student × Sleep — *pick two*
+- 🌆 &nbsp;**Mode:** 3 AM debugger. Thrives in neon-lit conditions.
+- 🕹️ &nbsp;**Weekend brain:** Unity + C# side projects. Different bugs deserve different clothes.
+- 🎯 &nbsp;**Combo unlocked:** CTO × Student × Sleep. *Pick two.*
 
 <br />
 
@@ -52,7 +52,7 @@
 <!--                          ★ DIVIDER ★                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20&height=3" width="100%" alt="—" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20&height=3" width="100%" alt="divider" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      ★  TECH  ARSENAL  ★                        -->
@@ -92,7 +92,7 @@
 <!--                          ★ DIVIDER ★                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6&height=3" width="100%" alt="—" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6&height=3" width="100%" alt="divider" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ★  ARCADE  SECTION  ★                       -->
@@ -116,7 +116,7 @@
 ╠══════════════════════════════════════════════════════╣
 ║  MAIN QUEST ..... scale Levver's multi-tenant AI     ║
 ║  SIDE QUEST ..... .NET/Azure ⚔ Python/GCP            ║
-║  GRINDING ....... distributed systems · evals        ║
+║  GRINDING ....... distributed systems, evals         ║
 ║  BOSS RUSH ...... shipping GenAI for enterprise      ║
 ║  ACHIEVEMENT .... zero downtime, real customers      ║
 ╚══════════════════════════════════════════════════════╝
@@ -130,7 +130,7 @@
 <!--                          ★ DIVIDER ★                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20&height=3" width="100%" alt="—" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20&height=3" width="100%" alt="divider" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ★  MULTIPLAYER  ★                           -->
@@ -170,9 +170,9 @@
 <!--                     ★  FOOTER  WAVE  ★                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,30:00F0FF,55:FF10F0,80:5B0A72,100:1A0033&height=140&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF10F0,100:1A0033&height=140&section=footer" width="100%" alt="footer" />
 
-<!-- 
+<!--
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
    ░░  YOU FOUND THE EASTER EGG. WELCOME TO THE GRID.  ░░
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
